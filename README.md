@@ -1,1 +1,1 @@
-# Pl-n-nasazen-frontend-aplika-n-st-C227-a-ostatni
+# Plán nasazen frontend-aplikační části C227 a ostatni
