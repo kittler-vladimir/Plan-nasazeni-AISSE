@@ -26,7 +26,7 @@
 | Vytvoření nových domén C227 (servery semadm a sezadm) | 3 dny | Tým A | Prováděno za běhu C227 v8, není finální verze, posuny termínů, nesplněn termín | Čekání | 05.06.2026 | 12.06.2026 |
 | Konfigurace nových domén C227 (servery semadm a sezadm) | 2 dny | Tým A | Prováděno za běhu C227 v8, není finální verze, posuny termínů, nesplněn termín | Čekání | 05.06.2026 | 12.06.2026 |
 | Nahrání Java aplikační části C227 (WAR soubory) | 1 hodina | Tým A | Prováděno za běhu C227 v8, není finální verze, posuny termínů, nesplněn termín | Čekání | 05.06.2026 | 12.06.2026 |
-| Vytvoření zálohy backend app prostředí pomocí nástrojů Glassfish | 2 hodiny | Tým A | Prováděno zaběhu C227 v8, není finální verze, posuny termínů, nesplněn termín | Čekání | 05.06.2026 | 12.06.2026 |
+| Vytvoření zálohy backend app prostředí pomocí nástrojů Glassfish | 2 hodiny | Tým A | Prováděno za běhu C227 v8, není finální verze, posuny termínů, nesplněn termín | Čekání | 05.06.2026 | 12.06.2026 |
 
 ---
 
@@ -55,7 +55,7 @@
 | Start Apache 2.4 (sezdmz a semdmz) s novou verzí rozcestníků a Java aplikací v9 | 20 min | Tým A | Prováděno paralelně | Čekání | – | – |
 | Kontrola funkčnosti odkazů v DNS (aisse.mvcr.cms2.cz a aisse.mv.gov.cz) | 20 min | Tým A | Prováděno paralelně | Čekání | – | – |
 | Stopnutí Apache 2.4 (servery sezdmz a semdmz) | 10 min | Tým A | Prováděno paralelně | Čekání | – | 9:30 |
-| **Vyhodnocení GO/NO GO** | 10 min | Tým A | – | Čekání | 9:30 | 9:40 |
+| Vyhodnocení GO/NO GO | 10 min | Tým A | – | Čekání | 9:30 | 9:40 |
 
 ### 4b. Migrace – Backend aplikační část
 
@@ -95,6 +95,16 @@
 | Vyhodnocení migrace prostředí C227 na verzi 9 GO/NO GO | 30 min | Tým A+B+C | ARICOMA | – | Čekání | – | – |
 | Vyhodnoceno GO | 0 min | Tým A+B+C | ARICOMA | – | Čekání | – | – |
 | Zaslání SMS vedení o ukončení migrace | 10 min | Tým A+B | – | – | – | – | 22:10 |
+
+---
+
+## 5. Závěr / Administrativa
+
+**Pracnost celkem: 1 hodina**
+
+| Úkol | Doba trvání | Tým | Stav |
+| --- | --- | --- | --- |
+| Zápis ZMĚNY do knihy serverů | 1 hodina | Tým A | Čekání |
 
 ---
 
